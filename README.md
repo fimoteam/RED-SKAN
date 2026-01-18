@@ -1,18 +1,6 @@
 # 🛡️ RedScan v2.0
 RedScan — это легковесный и мощный сканер веб-уязвимостей на Python, предназначенный для автоматизированного сбора информации (enumeration) и поиска распространенных брешей в безопасности.
 
-[
-https://img.shields.io/badge/python-3.6+-blue.svg
-](https://www.python.org/downloads/)
-
-[
-https://img.shields.io/badge/license-MIT-green.svg
-](LICENSE)
-
-[
-https://img.shields.io/badge/focus-Red%20Teaming-red.svg
-](#)
-
 ---
 
  🚀 Основные возможности
